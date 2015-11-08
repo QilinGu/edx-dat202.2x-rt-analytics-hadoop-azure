@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\StockWriter.exe.config
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\StockWriter.exe
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\StockWriter.pdb
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\Microsoft.HBase.Client.dll
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\protobuf-net.dll
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\protobuf-net.pdb
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\bin\Debug\protobuf-net.xml
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\obj\Debug\StockWriter.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\obj\Debug\StockWriter.exe
+\\Mac\Home\Documents\edx\MS DAT202.2x RT Analytics Hadoop Azure HDInsight\Week1\HDRTLabs\Lab01\Stocks\StockWriter\obj\Debug\StockWriter.pdb
